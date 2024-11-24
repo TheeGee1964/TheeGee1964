@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheeGee1964
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...cascade styling sheet
-- 💞️ I’m looking to collaborate on ...with development projects on information systems
+- 💞️ I’m looking to collaborate on ...development projects on information systems
 - 📫 How to reach me ...dansongithumbi483@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
